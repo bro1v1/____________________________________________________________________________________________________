@@ -1,1 +1,4 @@
-
+while true do
+  print("test")
+  wait()
+end
